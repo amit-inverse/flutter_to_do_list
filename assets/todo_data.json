@@ -1,0 +1,22 @@
+[
+    {
+        "task": "Buy groceries",
+        "time": "2023-05-07T14:30:00.000Z",
+        "completed": false
+    },
+    {
+        "task": "Do laundry",
+        "time": "2023-05-07T15:00:00.000Z",
+        "completed": true
+    },
+    {
+        "task": "Finish homework",
+        "time": "2023-05-08T12:00:00.000Z",
+        "completed": false
+    },
+    {
+        "task": "Take out the trash",
+        "time": "2023-05-08T16:30:00.000Z",
+        "completed": false
+    }
+]
